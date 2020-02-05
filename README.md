@@ -28,8 +28,7 @@
 + [偏差-方法分析和正则化](https://github.com/yangqinj/Note/blob/master/MachineLearning/5_bias_varias_%E6%AD%A3%E5%88%99%E5%8C%96.pdf)
 + [决策树](https://github.com/yangqinj/Note/blob/master/MachineLearning/6_Decision_Tree.pdf)
 + [集成学习：AdaBoost,XGBOOST](https://github.com/yangqinj/Note/blob/master/MachineLearning/7_Ensemble_Learning.pdf)
-+ [问题汇总](https://github.com/yangqinj/Note/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.ipynb)
-
++ [xgboost实践：糖尿病预测](https://github.com/yangqinj/Note/blob/master/MachineLearning/xgboost%E5%AE%9E%E8%B7%B5%EF%BC%9A%E7%B3%96%E5%B0%BF%E7%97%85%E9%A2%84%E6%B5%8B.pdf)
 
 
 ## 词嵌入

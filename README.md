@@ -29,6 +29,7 @@
 + [决策树](https://github.com/yangqinj/Note/blob/master/MachineLearning/6_Decision_Tree.pdf)
 + [集成学习：AdaBoost,XGBOOST](https://github.com/yangqinj/Note/blob/master/MachineLearning/7_Ensemble_Learning.pdf)
 + [xgboost实践：糖尿病预测](https://github.com/yangqinj/Note/blob/master/MachineLearning/xgboost%E5%AE%9E%E8%B7%B5%EF%BC%9A%E7%B3%96%E5%B0%BF%E7%97%85%E9%A2%84%E6%B5%8B.pdf)
++ [使用scikit-learn完成iris数据集分类](https://nbviewer.jupyter.org/github/yangqinj/Note/blob/master/MachineLearning/scikit_learn_classification_on_iris.ipynb)
 
 
 ## 词嵌入

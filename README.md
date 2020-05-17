@@ -40,3 +40,8 @@
 
 
 
+## 图神经网络
+
++ [DGL入门实践1](https://nbviewer.jupyter.org/github/yangqinj/Note/blob/master/Graph/tutorial_for_dgl.ipynb)
++ [DGL实现GCN网络在Cora数据集上做节点分类](https://nbviewer.jupyter.org/github/yangqinj/Note/blob/master/Graph/dgl_for_GCN.ipynb)
+

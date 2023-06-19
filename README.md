@@ -45,3 +45,8 @@
 + [DGL入门实践1](https://nbviewer.jupyter.org/github/yangqinj/Note/blob/master/Graph/tutorial_for_dgl.ipynb)
 + [DGL实现GCN网络在Cora数据集上做节点分类](https://nbviewer.jupyter.org/github/yangqinj/Note/blob/master/Graph/dgl_for_GCN.ipynb)
 
+## 模型部署
++ [基础概念](https://github.com/yangqinj/Note/blob/master/ModelDeploy/basic_concepts.ipynb)
++ [onnx的proto定义](https://github.com/yangqinj/Note/blob/master/ModelDeploy/onnx-proto.ipynb)
++ [torch转onnx](https://github.com/yangqinj/Note/blob/master/ModelDeploy/torch2onnx-torch-tutorial.ipynb)
++ [错误记录](https://github.com/yangqinj/Note/blob/master/ModelDeploy/error-records.ipynb)
